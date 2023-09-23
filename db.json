@@ -33,12 +33,20 @@
         "descripcion": "conociendo el mercado de la tecnologia"
       },
       {
-        "categoria": "jujutsuKaysen",
-        "titulo": "es la primero pagina",
-        "video": "https://youtu.be/VlDToipKSaQ?si=BZI_XqjtuAklP_ne",
-        "imagen": "https://img.freepik.com/vector-premium/imagen-dibujos-animados-hongo-palabra-hongo_587001-200.jpg?w=2000",
-        "descripcion": "esta es la primera en creacrse en jujutsu kaisen",
-        "id": "5d35ea9b-920c-4f1d-aaf7-10beaa1bfd58"
+        "categoria": "Informatica",
+        "titulo": "Aprende lo nuevo en Informatica",
+        "video": "https://youtu.be/MFEVevUHIV8?si=4RP1VcbsakVSzGaj",
+        "imagen": "https://i.ytimg.com/vi/MFEVevUHIV8/sddefault.jpg",
+        "descripcion": "Primeros pasos para avanzar en Informatica",
+        "id": "5"
+      },
+      {
+        "categoria": "BackEnd",
+        "titulo": "uso del backend",
+        "video": "https://youtu.be/0Zb5fgO0ubE?si=a18H52ydbLeton7Q",
+        "imagen": "https://descubrecomunicacion.com/wp-content/uploads/2019/07/forndend-backend2.jpg",
+        "descripcion": "que backend aprender o que lenguaje estudiar",
+        "id": "6"
       }
     ],
     "equipo": [
